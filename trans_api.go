@@ -7,6 +7,7 @@ import (
 	"github.com/yrshiben/baidu-translation-workflow/model"
 	"io/ioutil"
 	"net/http"
+	"net/url"
 	"strconv"
 	"time"
 )
@@ -32,7 +33,7 @@ func (api *TransApi) buildParams(query, from, to string) string {
 	salt := strconv.FormatInt(time.Now().Unix(), 10)
 	sign := Md5(api.AppId + query + salt + api.SecurityKey)
 	// ?appid=appid&salt=salt&from=from&to=to&sign=sign&q=query
-	queryParams := "?appid=" + api.AppId + "&salt=" + salt + "&from=" + from + "&to=" + to + "&sign=" + sign + "&q=" + query
+	queryParams := "?appid=" + api.AppId + "&salt=" + salt + "&from=" + from + "&to=" + to + "&sign=" + sign + "&q=" + url.PathEscape(query)
 	return queryParams
 }
 

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0632ff9f-51ad-4a51-b97f-951faad9b348" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trans_api.go" beforeDir="false" afterPath="$PROJECT_DIR$/trans_api.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +18,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.2/libexec" />
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.3/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -43,7 +43,7 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="settings.editor.selected.configurable" value="go.autoimport" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -86,9 +86,10 @@
       <screen x="0" y="23" width="2001" height="1257" />
     </state>
     <state x="634" y="337" key="#检查/0.23.2001.1257@0.23.2001.1257" timestamp="1603469272510" />
-    <state x="502" y="290" key="SettingsEditor" timestamp="1603457728489">
+    <state x="502" y="290" key="SettingsEditor" timestamp="1603880825641">
       <screen x="0" y="23" width="2001" height="1257" />
     </state>
+    <state x="502" y="290" key="SettingsEditor/-3200.-401.3200.1777/0.23.2001.1257@0.23.2001.1257" timestamp="1603880825641" />
     <state x="502" y="290" key="SettingsEditor/0.23.2001.1257@0.23.2001.1257" timestamp="1603457728489" />
   </component>
 </project>
