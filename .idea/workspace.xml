@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0632ff9f-51ad-4a51-b97f-951faad9b348" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trans_api.go" beforeDir="false" afterPath="$PROJECT_DIR$/trans_api.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,24 +20,31 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.3/libexec" />
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.5/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="7tuvekk6" />
+  </component>
   <component name="ProjectId" id="1jHOlrEYKCxRU52w5z8wsq6D6HT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
@@ -43,7 +52,7 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
-    <property name="settings.editor.selected.configurable" value="go.autoimport" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -56,40 +65,20 @@
       <module name="baidu-translation-workflow" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/trans-api.go" />
       <package value="github.com/yrshiben/baidu-translation-workflow" />
       <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/trans-api.go" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Go Build.go build trans-api.go" />
-      </list>
-    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="813" y="374" key="#com.intellij.ide.util.MemberChooser" timestamp="1603459515630">
-      <screen x="0" y="23" width="2001" height="1257" />
-    </state>
-    <state x="813" y="374" key="#com.intellij.ide.util.MemberChooser/0.23.2001.1257@0.23.2001.1257" timestamp="1603459515630" />
-    <state x="689" y="297" key="#go_build_trans-api.go" timestamp="1603464419728">
-      <screen x="0" y="23" width="2001" height="1257" />
-    </state>
-    <state x="689" y="297" key="#go_build_trans-api.go/0.23.2001.1257@0.23.2001.1257" timestamp="1603464419728" />
-    <state x="634" y="337" key="#检查" timestamp="1603469272510">
-      <screen x="0" y="23" width="2001" height="1257" />
-    </state>
-    <state x="634" y="337" key="#检查/0.23.2001.1257@0.23.2001.1257" timestamp="1603469272510" />
-    <state x="502" y="290" key="SettingsEditor" timestamp="1603880825641">
-      <screen x="0" y="23" width="2001" height="1257" />
-    </state>
-    <state x="502" y="290" key="SettingsEditor/-3200.-401.3200.1777/0.23.2001.1257@0.23.2001.1257" timestamp="1603880825641" />
-    <state x="502" y="290" key="SettingsEditor/0.23.2001.1257@0.23.2001.1257" timestamp="1603457728489" />
   </component>
 </project>
